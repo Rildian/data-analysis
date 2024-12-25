@@ -1,0 +1,17 @@
+	This dataset provides insights into the health, attendance, 
+and overall well-being of college students. 
+It combines biometric data (stress levels, sleep patterns, anxiety, and mood scores) 
+with class attendance information to assess the relationship between student health and academic performance. 
+The dataset is designed for studying and analyzing factors that influence student engagement 
+and risk levels in an educational setting.
+
+Key Features:
+Student ID: A unique identifier for each student.
+Date: The date of the class for which attendance and health data were recorded.
+Class Time: The time range for the class session attended by the student.
+Attendance Status: The student's attendance status for the day (e.g., 'Present,' 'Absent,' 'Late').
+Stress Level (GSR): A measurement of the student's stress level, derived from Galvanic Skin Response (GSR), a physiological indicator of stress.
+Sleep Hours: The number of hours the student slept on the night before the class, reflecting the quality of rest.
+Anxiety Level: A subjective measure of the student's anxiety, rated on a predefined scale.
+Mood Score: A score representing the student's mood, indicating their emotional state during the class session.
+Risk Level: A categorization of the student’s health and engagement risk (e.g., 'Low,' 'Medium,' 'High'), based on the combination of attendance and biometric indicators.
