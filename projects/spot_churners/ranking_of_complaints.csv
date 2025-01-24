@@ -1,0 +1,21 @@
+churn_reason,number_of_complaints,ranking
+"Competitor had better devices",313,1
+"Competitor made better offer",311,2
+"Attitude of support person",220,3
+"Don't know",130,4
+"Competitor offered more data",117,5
+"Competitor offered higher download speeds",100,6
+"Attitude of service provider",94,7
+"Price too high",78,8
+"Product dissatisfaction",77,9
+"Network reliability",72,10
+"Long distance charges",64,11
+"Service dissatisfaction",63,12
+Moved,46,13
+"Extra data charges",39,14
+"Limited range of services",37,15
+"Poor expertise of online support",31,16
+"Lack of affordable download/upload speed",30,17
+"Lack of self-service on Website",29,18
+"Poor expertise of phone support",12,19
+Deceased,6,20
